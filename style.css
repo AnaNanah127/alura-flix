@@ -4,7 +4,9 @@
     background-color:rgb(116, 84, 181) ;
 }
 
-
+body{
+    background-color: aliceblue;
+}
 
 header{
     background-color: rgb(186, 163, 231);
