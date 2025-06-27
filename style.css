@@ -1,3 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 header{
     background-color: rgb(186, 163, 231);
     color: black;
