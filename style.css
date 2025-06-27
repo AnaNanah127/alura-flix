@@ -2,5 +2,5 @@ header{
     background-color: rgb(186, 163, 231);
     color: rgb(56, 3, 79);
     font-size: 25px;
-
+    border-bottom: solid 2px black;
 }
