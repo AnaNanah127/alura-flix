@@ -16,3 +16,7 @@ header{
     padding: 20px;
 }
 
+.chamada{
+    display: flex;
+    justify-content: center;
+}
